@@ -13,5 +13,5 @@
   spacemacs [[https://gitlab.com/howardabrams/spacemacs.d/tree/master/elisp][Repo]].
 
 ** Maintainers
-+ @howardabrams (Author)
-+ @snuffop
++ @howardabrams Howard Abrams(Author)
++ @snuffop Marty Buchaus (Maintainer)
