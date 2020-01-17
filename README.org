@@ -1,0 +1,17 @@
+#+TITLE:   Boxes
+#+DATE:    January 17, 2020
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+  - [[#maintainers][Maintainers]]
+
+* Description
+# A summary of what this module does.
+
++ Derived from Howards gitlab repo and his [[http://howardism.org/Technical/Emacs/getting-boxes-done.html][Essay]] on getting boxes done. and his
+  spacemacs [[https://gitlab.com/howardabrams/spacemacs.d/tree/master/elisp][Repo]].
+
+** Maintainers
++ @howardabrams (Author)
++ @snuffop
