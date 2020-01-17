@@ -35,6 +35,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;
 ;;; Code:
+(require 'hydra)
 
 (defvar org-default-projects-dir   "~/projects"                     "Primary GTD directory")
 (defvar org-default-technical-dir  "~/technical"                    "Directory of shareable notes")
